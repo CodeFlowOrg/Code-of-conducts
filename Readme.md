@@ -1,8 +1,20 @@
 Role:- 
 1. Organisation Admin 
-3. Organisation Maintainers
-4. Project Admin
-5. Mentors 
-6. Project team 
-7. Contributors 
-8. Members
+
+
+2. Organisation Maintainers
+
+
+3. Project Admin
+   Responsible to 
+
+4. Mentors 
+
+
+5. Project Team 
+
+
+6. Contributors 
+
+
+7. Codeflow GitHub Members
