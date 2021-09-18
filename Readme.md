@@ -6,7 +6,6 @@ Role:-
 
 
 3. Project Admin
-   Responsible to 
 
 4. Mentors 
 
